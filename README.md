@@ -1,6 +1,6 @@
 # psswrdgnrtr
 
-_Password Generator App_
+_Password Generating App_
 
 **Built using TypeScript, React JS, Next JS, React Query, Zustand, and Next UI**
 
